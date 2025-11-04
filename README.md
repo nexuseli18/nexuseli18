@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Saurabh Parkar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nexuseli18&label=Profile%20views&color=0e75b6&style=flat" alt="nexuseli18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nexuseli18&style=for-the-badge" alt="nexuseli18" /> </p>
 
 
 - 🔭 I’m currently working on [Integrated Communication Sensing over mmWave Devices for respiration pattern detection](https://github.com/XueShannon/AISECLAB_mmWave/tree/main/-Project_03%20Breathing%20Patterns%20Detection-Sensing)
