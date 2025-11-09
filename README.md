@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Artificial Intelligence, Signal Processing and Wireless Sensing.**
 - 🔍 I am looking for AI/ML Engineer, and Research Positions.
 
-### [Resume](files/Saurabh_Parkar_Resume.pdf)
+### [Resume](files/SaurabhParkar_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
