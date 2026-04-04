@@ -17,7 +17,7 @@ jobs:
 
       - name: Fetch trophy image
         run: |
-          curl -L "https://github-profile-trophy-8hd8.vercel.app/?username=nexuseli18&theme=light" \
+          curl -L "https://github-profile-trophy-8hd8.vercel.app/?username=nexuseli18&theme=onedark&title=-Stars,-Followers,-Reviews,-Issues" \
           -o files/trophy.svg
 
       - name: Commit and push if changed
