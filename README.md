@@ -25,12 +25,12 @@ Ph.D. student at [University of Hawaiʻi at Mānoa](https://ece.hawaii.edu/home/
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-4310-1002)
 
 ## 📊 GitHub Stats:
-[![summary](profile-summary-card-output/gotham/0-profile-details.svg)](https://github.com/nexuseli18/)
+[![summary](./profile-summary-card-output/gotham/0-profile-details.svg)](https://github.com/nexuseli18/)
 [![summary](profile-summary-card-output/gotham/1-repos-per-language.svg)](https://github.com/nexuseli18/) [![summary](profile-summary-card-output/gotham/2-most-commit-language.svg)](https://github.com/nexuseli18/)
 [![summary](profile-summary-card-output/gotham/3-stats.svg)](https://github.com/nexuseli18/)
 
 
-[![trophy](files/trophy.svg)](https://github.com/nexuseli18/)
+[![trophy](./files/trophy.svg)](https://github.com/nexuseli18/)
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?&logo=c&logoColor=white) 
