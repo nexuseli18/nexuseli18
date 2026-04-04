@@ -1,0 +1,30 @@
+name: Update GitHub Trophy
+
+on:
+  schedule:
+    - cron: "* */24 * * *"   
+  workflow_dispatch:       
+
+jobs:
+  update-trophy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Create assets directory
+        run: mkdir -p assets
+
+      - name: Fetch trophy image
+        run: |
+          curl -L "https://trophy-nexuseli18.vercel.app/?username=nexuseli18&theme=light" \
+          -o files/trophy.svg
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add assets/trophy.svg
+          git diff --cached --quiet || git commit -m "Update trophy"
+          git push

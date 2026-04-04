@@ -3,40 +3,71 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <h1 align="center">Hi 👋, I'm Saurabh Parkar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nexuseli18&style=for-the-badge" alt="nexuseli18" /> </p>
+Ph.D. student at [University of Hawaiʻi at Mānoa](https://ece.hawaii.edu/home/) researching next-generation wireless systems. My work focuses on O-RAN, ISAC, and network security, with an emphasis on intelligent, secure 6G/Next-G systems built and evaluated using real-world SDR testbeds.
+
+- 🔭 I’m currently working on [***Fake Base Stations in 5G***](https://github.com/WINGS-UHM/Fake-Base-Station)
+- 🌱 I’m currently learning **Next-G Communication Systems & AI-RAN**
 
 
-- 🔭 I’m currently working on [Integrated Communication Sensing over mmWave Devices for respiration pattern detection](https://github.com/XueShannon/AISECLAB_mmWave/tree/main/-Project_03%20Breathing%20Patterns%20Detection-Sensing)
-- 🌱 I’m currently learning **Artificial Intelligence, Signal Processing and Wireless Sensing.**
-- 🔍 I am looking for AI/ML Engineer, and Research Positions.
+## 🌐 Socials
+[![email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sparkar@hawaii.edu) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabhparkar25)
+[![Website](https://img.shields.io/badge/Website-222222?&logo=google-chrome&logoColor=white)](https://your-website.com)
+[![Resume](https://img.shields.io/badge/CV-red?&logo=readthedocs&logoColor=white)](files/SaurabhParkar_CV.pdf)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-4310-1002)
 
-### [Resume](files/SaurabhParkar_CV.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saurabhparkar25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabhparkar25" height="30" width="40" /></a> 
-</p>
-<h3> Email: sparkar@stevens.edu </h4>
+## 📊 GitHub Stats:
+[![summary](profile-summary-card-output/gotham/0-profile-details.svg)](https://github.com/nexuseli18/)
+[![summary](profile-summary-card-output/gotham/1-repos-per-language.svg)](https://github.com/nexuseli18/) [![summary](profile-summary-card-output/gotham/2-most-commit-language.svg)](https://github.com/nexuseli18/)
+[![summary](profile-summary-card-output/gotham/3-stats.svg)](https://github.com/nexuseli18/)
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+[![trophy](files/trophy.svg)](https://github.com/nexuseli18/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nexuseli18&theme=dark&show_icons=true&locale=en&layout=compact" alt="nexuseli18" /></p>
+## 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54) 
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?&logo=cmake&logoColor=white)
+---
+![srsRAN](https://img.shields.io/badge/srsRAN-FF6F00)
+![Open5GS](https://img.shields.io/badge/Open5GS-009688)
+![O-RAN](https://img.shields.io/badge/O--RAN-0052CC)
+![GNU Radio](https://img.shields.io/badge/GNU%20Radio-663399)
+![USRP](https://img.shields.io/badge/USRP-333333)
+---
+![Grafana](https://img.shields.io/badge/Grafana-F46800?&logo=grafana&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?&logo=influxdb&logoColor=white)
+![Telegraf](https://img.shields.io/badge/Telegraf-000000?)
+![MetalLB](https://img.shields.io/badge/MetalLB-FFCC00?)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?&logo=gnu-bash&logoColor=white) 
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?&logo=nginx&logoColor=white) 
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&logo=redis&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?&logo=kubernetes&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?&logo=docker&logoColor=white) 
+---
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?&logo=Keras&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?&logo=Matplotlib&logoColor=black) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?&logo=scipy&logoColor=%white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&logo=TensorFlow&logoColor=white) 
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?&logo=nVIDIA&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?&logo=Raspberry-Pi) 
+---
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?&logo=latex&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?&logo=adobe%20photoshop&logoColor=white) 
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?&logo=Adobe%20Premiere%20Pro&logoColor=white) 
+![Steam](https://img.shields.io/badge/Steam-%23000000.svg?&logo=steam&logoColor=white) 
+![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?&logo=Ubisoft&logoColor=black) 
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nexuseli18&theme=dark&show_icons=true&locale=en" alt="nexuseli18" /></p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nexuseli18&theme=onedark&title=-Stars,-Followers,-Reviews,-Issues" alt="nexuseli18" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nexuseli18&" alt="nexuseli18" /></p>
