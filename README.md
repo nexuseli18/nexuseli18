@@ -27,7 +27,7 @@ Ph.D. student at [University of Hawaiʻi at Mānoa](https://ece.hawaii.edu/home/
 
 ## 📊 GitHub Stats:
 [![summary](profile-summary-card-output/gotham/0-profile-details.svg)](https://github.com/nexuseli18/)
-[![summary](profile-summary-card-output/gotham/1-repos-per-language.svg)](https://github.com/nexuseli18/) [![summary](profile-summary-card-output/gotham/2-most-commit-language.svg)](https://github.com/nexuseli18/)
+[![summary](profile-summary-card-output/gotham/2-most-commit-language.svg)](https://github.com/nexuseli18/)
 [![summary](profile-summary-card-output/gotham/3-stats.svg)](https://github.com/nexuseli18/)
 
 
